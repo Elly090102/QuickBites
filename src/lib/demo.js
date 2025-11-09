@@ -2,7 +2,7 @@ export const DEMO_RECIPES = [
   {
     id: "pasta-10",
     title: "10-min Tomato Pasta",
-    photo_url: "/public/images/pasta.jpg",
+    photo_url: "/images/pasta.jpg",
     total_minutes: 10,
     difficulty: "easy",
     tags: ["quick","vegetarian","dinner"]
@@ -10,7 +10,7 @@ export const DEMO_RECIPES = [
   {
     id: "koshary",
     title: "Egyptian Koshary",
-    photo_url: "/public/images/koshari.jpg",
+    photo_url: "/images/koshari.jpg",
     total_minutes: 45,
     difficulty: "medium",
     tags: ["popular","vegan"]
@@ -18,7 +18,7 @@ export const DEMO_RECIPES = [
   {
     id: "zucchini-boats",
     title: "Stuffed Zucchini Boats",
-    photo_url: "/public/images/zucchini.jpg",
+    photo_url: "/images/zucchini.jpg",
     total_minutes: 35,
     difficulty: "easy",
     tags: ["vegetarian","popular"]
@@ -26,7 +26,7 @@ export const DEMO_RECIPES = [
   {
     id: "comfort-fish",
     title: "One-Pot Comfort Fish",
-    photo_url: "/public/images/fish.jpg",
+    photo_url: "/images/fish.jpg",
     total_minutes: 30,
     difficulty: "easy",
     tags: ["seafood","dinner"]
@@ -34,7 +34,7 @@ export const DEMO_RECIPES = [
   {
     id: "oat-bowl",
     title: "Berry Oat Breakfast Bowl",
-    photo_url: "/public/images/oat.jpg",
+    photo_url: "/images/oat.jpg",
     total_minutes: 7,
     difficulty: "easy",
     tags: ["breakfast","quick","vegetarian"]
@@ -42,7 +42,7 @@ export const DEMO_RECIPES = [
   {
     id: "choc-mousse",
     title: "Light Chocolate Mousse",
-    photo_url: "/public/images/mousse.jpg",
+    photo_url: "/images/mousse.jpg",
     total_minutes: 20,
     difficulty: "easy",
     tags: ["dessert","popular"]
